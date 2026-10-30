@@ -88,9 +88,17 @@ Jogo educativo criado para praticar inglês de maneira interativa, por meio de d
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gs3370951-commits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=GustavoSilva951&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs3370951-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSilva951&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
 
 </div>
 
