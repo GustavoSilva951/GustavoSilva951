@@ -6,9 +6,11 @@
 
 ### 💻 Desenvolvedor em formação | Tecnologia e Desenvolvimento de Software
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Programação+%7C+Tecnologia+%7C+Inovação;Transformando+ideias+em+código." alt="Texto animado" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!%3BProgramming+%7C+Technology+%7C+Innovation%3BTurning+ideas+into+code" alt="Texto animado" />
 </p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gs3370951-commits&color=blue&style=flat-square&label=Visualizações+do+perfil)
 
