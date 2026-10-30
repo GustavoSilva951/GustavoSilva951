@@ -127,11 +127,11 @@ Jogo educativo criado para praticar inglês de maneira interativa, por meio de d
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://github.com/gs3370951-commits">
+  <a href="https://github.com/GustavoSilva951">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- Substitua o link abaixo pelo endereço real do seu LinkedIn -->
-  <a href="https://www.linkedin.com/" >
+  <a href="www.linkedin.com/in/gustavo-silva564" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
