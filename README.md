@@ -20,8 +20,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um entusiasta da tecnologia e do desenvolvimento de software, sempre buscando aprender novas ferramentas, aprimorar minhas habilidades e transformar ideias em soluções práticas.
-
+Gosto muito de tecnologia e programação, e estou sempre buscando aprender coisas novas e melhorar minhas habilidades. Gosto de colocar meus conhecimentos em prática, desenvolver projetos e descobrir novas formas de resolver problemas por meio da tecnologia. Acredito que cada projeto é uma oportunidade de aprender, evoluir e me aproximar dos meus objetivos profissionais.
 Utilizo este espaço para compartilhar projetos acadêmicos, experimentos de programação e aplicações desenvolvidas durante minha jornada de aprendizado.
 
 - 💻 Estudando programação e desenvolvimento de sistemas.
